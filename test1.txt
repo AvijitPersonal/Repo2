@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 06CC-FE87
+
+ Directory of C:\Avijit27092019\mygitproject
+
+04/24/2020  01:54 PM    <DIR>          .
+04/24/2020  01:54 PM    <DIR>          ..
+04/24/2020  01:54 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  341,847,961,600 bytes free
